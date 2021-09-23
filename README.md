@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @InvSc
-- 👀 I’m interested in SpringBoot and PyQt.
-- 🌱 I’m currently learning literature.
+- 👀 I’m interested in literature and movie.
+- 🌱 I’m currently learning software engineering.
 - 💞️ I’m looking to collaborate about learning together. 
 - 📫 How to reach me: E-mail - a864645506@live.com
 
